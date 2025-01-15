@@ -11,4 +11,15 @@ SD card , otg cable and sd card reader ,
 you also need to speakers (or you can use headphones that support jack port) .
 
 
+# Schematic : 
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/cb76700b-7412-4280-91f2-d9fb31b55b2d" />
+
+# PCB Design : 
+
+
+![player](https://github.com/user-attachments/assets/15528ea6-f152-4a93-9d16-543e7c350e0c)
+
+
+
 Good Luck
