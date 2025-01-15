@@ -22,4 +22,8 @@ you also need to speakers (or you can use headphones that support jack port) .
 
 
 
-Good Luck
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
+
+
